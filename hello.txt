@@ -1,1 +1,2 @@
-Halo ini adalah awal yang baik untuk belajar github
+Halo ini adalah awal yang baik untuk belajar github 
+Cobalah mengikuti kelas Dicoding agar memahaminya
