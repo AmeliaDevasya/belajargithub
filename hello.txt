@@ -1,2 +1,1 @@
-Halo ini adalah awal yang baik untuk belajar github 
-Cobalah mengikuti kelas Dicoding agar memahaminya
+Semangat belajar dasar github di Dicoding selama 1 minggu kedepan
