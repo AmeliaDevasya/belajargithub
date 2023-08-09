@@ -1,1 +1,3 @@
 Halo ini adalah awal yang baik untuk belajar github
+
+Saat ini kamu sedang mengikuti kelas dasar github selama 1 minggu
